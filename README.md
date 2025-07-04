@@ -39,7 +39,7 @@ A sleek and minimal Notes App built with **React**, allowing users to add, delet
 
 ## ⚙️ How to Run Locally
 
-1. **Clone the repository**
+
 
 ```bash
 git clone https://github.com/your-username/notes-app.git
@@ -51,11 +51,10 @@ Run the app
 
 npm start
 The app will run at http://localhost:3000
+```
 
 🧠 Folder Structure (Optional)
-css
-Copy
-Edit
+```
 src/
 │
 ├── components/
@@ -69,6 +68,8 @@ src/
 │
 ├── App.js
 └── index.js
+
+```
 📌 Limitations
 Can only pin up to 3 notes
 
